@@ -1,0 +1,38 @@
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .main-section {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 30px;
+    font-weight: bolder;
+  }
+
+  .main-section .main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 360px;
+    height: auto;
+    color: #ffffff;
+
+  }
+  .main-content1{
+    background-color: #0ec8eb;
+  }
+  .main-content2{
+    background-color: #0d6ffd;
+  } 
+  .main-content3{
+    background-color: #198855;
+  }  
