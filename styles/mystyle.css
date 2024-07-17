@@ -36,3 +36,7 @@
   .main-content3{
     background-color: #198855;
   }  
+  .main-section .main-content img {
+    width: 100px;
+    height: 100px;
+  }
